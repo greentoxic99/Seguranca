@@ -2,7 +2,7 @@
 
 # 🛡️ **Repositório de Segurança Cibernética**
 
-Bem-vindo ao repositório dedicado a **Segurança Cibernética**! Aqui você encontrará uma coleção de recursos, ferramentas, guias e práticas recomendadas para proteger sistemas, redes e dados contra ameaças digitais.
+Bem-vindo ao repositório dedicado a **Segurança Cibernética**! Aqui você encontrará uma coleção de recursos, ferramentas, guias e práticas recomendadas para proteger sistemas, redes e dados contra ameaças digitais entre outros.
 
 ---
 
